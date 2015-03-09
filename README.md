@@ -242,3 +242,7 @@ Any questions, feel free to [contact me](https://github.com/mgallegos) or ask [h
 ## License
 
 Laravel jqGrid package is open source software licensed under the MIT License.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gilbertkris/laravel-jqgrid/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
